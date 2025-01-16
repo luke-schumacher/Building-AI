@@ -91,33 +91,12 @@ End Users (Consumers, Customers):
 Needs: Indirect needs, as they benefit from systems optimized by the trained models (e.g., personalized recommendations, more reliable products, or faster services).
 Considerations: End users expect the systems to function efficiently, providing accurate, personalized experiences without delays or errors.
 By addressing the needs of these various users, the solution helps organizations improve their data processing, modeling, and analysis capabilities, making it valuable in diverse fields such as research, business, and software development.
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
 
 
 ## Data sources and AI methods
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+Siemens Healthineers provided the Data used and is confidential. Only the model was allowed to be published.
 
 ## Challenges
 

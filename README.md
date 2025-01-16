@@ -4,7 +4,8 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # Hidden Markov Model
 
-Final Mooc project for the Building AI course
+Building AI course project
+Final Mooc project
 
 ## Summary
 
